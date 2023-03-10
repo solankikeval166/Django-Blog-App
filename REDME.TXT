@@ -1,0 +1,12 @@
+pyhton manage.py createsuperuser
+
+PYTHON manage.py makemigrations
+
+python manage.py mingrate
+
+Password: charusat
+
+addded user TestUser
+
+goto modals
+ add clas Post
